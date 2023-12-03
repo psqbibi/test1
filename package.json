@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"psqbibi"
+	"author":"psqbibi",
+	"description": "A project that does backend stuff"
 }
